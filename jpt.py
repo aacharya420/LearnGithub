@@ -1,0 +1,2 @@
+msg="jpt"
+print(msg)
