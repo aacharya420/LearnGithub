@@ -1,2 +1,2 @@
-msg="bigardisakiiiiiiii hahahaj"
+msg="sorryyyyyyy"
 print(msg)
